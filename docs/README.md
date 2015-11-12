@@ -50,7 +50,9 @@ var List = new mongoose.Schema({
 	createdAt: {type: Date, required: true},
 	items: [Item]
 });
+```
 
 ## Wireframes
 
+![list create](img/list-create.png)
 
