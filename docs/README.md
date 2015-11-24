@@ -56,3 +56,8 @@ var List = new mongoose.Schema({
 
 ![list create](img/list-create.png)
 
+## Reserach Topics
+
+* (2 points) use awesome js library that i found
+* (1 point) integrate visual effects
+
